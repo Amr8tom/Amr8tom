@@ -15,9 +15,13 @@ intelligence and molecular biology.
 ●👀👀 I hope I can collaborate on any project in my study (bioinformatics)      
 ●💞️ I’m looking to collaborate on any project which can help poors Or Patients for free    
 -------------------------------------------
-●Database servers & tools : SQflite Database , firebase , NCBIdatabase      
+●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●Technical skills●●●●●●●●●●●●●●●●●●●●●●●●●●●●●        
+●framework : Flutter , VMD
+●Programing languages : 1- C++ , 2- Python , 3-R , 4-Dart ,5- prolog , html ,css , javascript
+●Database servers & tools : SQflite Database , firebase , NCBIdatabase streamlit ,flask ,keras,tensforflow ,pandas,render,zeet.co,
 ●Good in English but i have a poor accent          
 ● very fast in coding        
+----------------------------------------------- 
 ● some anther hobbies & pros        
 ● I can use adobe photoshop But i have Bad sense in choosing colors & editing videos & using linux for some security works    
 I can make some funny sites for your business like
