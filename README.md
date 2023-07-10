@@ -2,7 +2,9 @@
 ● I'm Already have three years experince in devolping android applications    
 ● I Created about 9 Apps in different fields	      
 ●I uploaded 3 of them in Repositories u can check them	      
+------------------
 Education                                  
+------------------------------------
 ●Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)      
 ●I'm a still student ( Department of Bioinformatics )      
 ●I'm a trainee data scientist who is passionate about using artificial intelligence to make the world a slightly better place.    
@@ -11,7 +13,8 @@ Education
 intelligence and molecular biology.        
 ●🌱 I’m currently learning bioinformatics to work as daData scientist in Bio (👨‍💻)      
 ●👀👀 I hope I can collaborate on any project in my study (bioinformatics)      
-●💞️ I’m looking to collaborate on any project which can help poors Or Patients for free      
+●💞️ I’m looking to collaborate on any project which can help poors Or Patients for free    
+-------------------------------------------
 ●Database servers & tools : SQflite Database , firebase , NCBIdatabase      
 ●Good in English but i have a poor accent          
 ● very fast in coding        
