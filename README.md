@@ -2,10 +2,11 @@
 ● I'm Already have three years experince in devolping android applications    
 ● I Created about 9 Apps in different fields	      
 ●I uploaded 3 of them in Repositories u can check them	      
+
 _______________________
+
 Education                                  
-__________________________________________________
-●Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)      
+Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)      
 ●I'm a still student ( Department of Bioinformatics )      
 ●I'm a trainee data scientist who is passionate about using artificial intelligence to make the world a slightly better place.    
 ●I like to work on projects involving machine learning ,and analyses molecular biology . In my spare time,      
@@ -14,15 +15,17 @@ intelligence and molecular biology.
 ●🌱 I’m currently learning bioinformatics to work as daData scientist in Bio (👨‍💻)      
 ●👀👀 I hope I can collaborate on any project in my study (bioinformatics)      
 ●💞️ I’m looking to collaborate on any project which can help poors Or Patients for free    
--------------------------------------------
+______________
 ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●Technical skills●●●●●●●●●●●●●●●●●●●●●●●●●●●●●        
 ●framework : Flutter , VMD
 ●Programing languages : 1- C++ , 2- Python , 3-R , 4-Dart ,5- prolog , html ,css , javascript
-●Database servers & tools : SQflite Database , firebase , NCBIdatabase streamlit ,flask ,keras,tensforflow ,pandas,render,zeet.co,
+●Database servers & tools : SQflite Database , firebase , NCBIdatabase streamlit ,flask ,keras,tensforflow 
+,pandas,render,zeet.co,VMD, postman, apache
 ●Good in English but i have a poor accent          
 ● very fast in coding        
------------------------------------------------ 
-● some anther hobbies & pros            
+------------------------------------------------------
+
+some anther hobbies & pros            
 ● I can use adobe photoshop But i have Bad sense in choosing colors & editing videos & using linux for some security works    
 I can make some funny sites for your business like          
 ● https://amr8tom-oral-api-dd-h1mb0b.streamlit.app/      
