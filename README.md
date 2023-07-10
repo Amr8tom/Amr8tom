@@ -1,6 +1,4 @@
-### Hi there 👋
 👋 Hi, I’m Amr a software android developer and im about to be Data scientist(👨‍💻)
-
 I'm Already have three years experince in devolping android applications
 I Created about 9 Apps in different fields
 I uploaded 3 of them in Repositories u can check them
@@ -13,10 +11,6 @@ you will often find me working on devolping android applications or studing my m
 🌱 I’m currently learning bioinformatics to work as daData scientist in Bio (👨‍💻)
 👀👀 I hope I can collaborate on any project in my study (bioinformatics)
 💞️ I’m looking to collaborate on any project which can help poors Or Patients for free
-Technical skills
-framework : Flutter , VMD
-Programing languages : 1- C++ , 2- Python , 3-R , 4-Dart ,5- prolog , html ,css , javascript
-Databse Languages : MYSQL , SQL
 Database servers & tools : SQflite Database , firebase , NCBIdatabase
 Good in English but i have a poor accent
 very fast in coding
