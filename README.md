@@ -2,9 +2,9 @@
 ● I'm Already have three years experince in devolping android applications    
 ● I Created about 9 Apps in different fields	      
 ●I uploaded 3 of them in Repositories u can check them	      
-------------------
+_______________________
 Education                                  
-------------------------------------
+__________________________________________________
 ●Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)      
 ●I'm a still student ( Department of Bioinformatics )      
 ●I'm a trainee data scientist who is passionate about using artificial intelligence to make the world a slightly better place.    
