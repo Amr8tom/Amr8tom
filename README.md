@@ -1,7 +1,7 @@
-● 👋 Hi, I’m Amr a software android developer and im about to be Data scientist(👨‍💻)   
-● I'm Already have three years experince in devolping android applications\n	
-● I Created about 9 Apps in different fields	
-I uploaded 3 of them in Repositories u can check them	
+● 👋 Hi, I’m Amr a software android developer and im about to be Data scientist(👨‍💻)       
+● I'm Already have three years experince in devolping android applications    
+● I Created about 9 Apps in different fields	      
+●I uploaded 3 of them in Repositories u can check them	      
 
 Education
 
