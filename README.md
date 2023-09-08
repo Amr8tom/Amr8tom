@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/amr-alaa-6433b0222/" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Alaa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/kamba.amr.9" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Alaa-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
- <a href="https://www.youtube.com/channel/UCvZFhKHiycnIVzrWsdWaN3g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  /></a>
+ <a href="https://www.youtube.com/channel/UCvZFhKHiycnIVzrWsdWaN3g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
