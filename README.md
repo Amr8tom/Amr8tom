@@ -34,19 +34,6 @@
 
 
 
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr8tom807&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-</div>
-<div align="left">
-    <a href="https://komarev.com/ghpvc/?username=Amr8tom&style=for-the-badge">
-        <img src="https://komarev.com/ghpvc/?username=Amr8tom&style=for-the-badge" alt="profile views" />
-    </a>
-</div>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr8tom807&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Amr8tom&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Amr8tom&style=for-the-badge">
+<a href="https://github.com/Amr8tom807">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr8tom807&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
 </a>
