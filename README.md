@@ -25,11 +25,12 @@
 
 ### Check Out My Apps:
 
-- [App 1 Name](https://play.google.com/store/apps/details?id=com.apmo.doctorpharma) - Description of App 1.
-- [App 2 Name](https://play.google.com/store/apps/details?id=com.example.app2) - Description of App 2.
-- [App 3 Name](https://play.google.com/store/apps/details?id=com.example.app3) - Description of App 3.
-- [App 4 Name](https://play.google.com/store/apps/details?id=com.example.app4) - Description of App 4.
-- [App 5 Name](https://play.google.com/store/apps/details
+- [Duaya](https://play.google.com/store/apps/details?id=com.apmo.doctorpharma) - Medical App
+- [Trusted Products](https://play.google.com/store/apps/details?id=com.Amr_and_Khaled.trustproducts) - Classification app to calsifiy the products using its barcode.
+- [PrenoDoctor](https://play.google.com/store/apps/details?id=com.prenodoctor) - A medical app designed to connect patients with healthcare providers, offering features such as appointment booking.
+- [masjidquba](https://play.google.com/store/apps/details?id=app.masjidquba.android) - Shala Prayer Times.
+- [Ahmed Saadeldin Store](https://play.google.com/store/apps/details?id=com.Amr.Amr_alaa) -  online store.
+ - [Ahmed Saadeldin Store](https://apps.apple.com/ye/app/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B3%D8%B9%D8%AF-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%B3%D8%AA%D9%88%D8%B1/id6471036332) -  online store.
 
 ### 🛠 &nbsp;Tech Stack
 
