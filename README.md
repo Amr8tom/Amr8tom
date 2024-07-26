@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/channel/UCvZFhKHiycnIVzrWsdWaN3g" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
 
 
-### Check Out My Apps:
+### Check Out Some of My Apps Which Are Live and I Worked On Individually:
 
 - [Duaya](https://play.google.com/store/apps/details?id=com.apmo.doctorpharma) - Medical App
 - [Trusted Products](https://play.google.com/store/apps/details?id=com.Amr_and_Khaled.trustproducts) - Classification app to calsifiy the products using its barcode.
