@@ -39,9 +39,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![PHP Laravel](https://img.shields.io/badge/-PHP%20Laravel-05122A?style=flat&logo=laravel&logoColor=FB503B)&nbsp;
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat&logo=clean-architecture)&nbsp;
-![block](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat&logo=block)&nbsp;
-![provider](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat&logo=provider)&nbsp;
-![GetX](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat&logo=GetX)&nbsp;
+![block](https://img.shields.io/badge/-block-05122A?style=flat&logo=block)&nbsp;
+![provider](https://img.shields.io/badge/-provider-05122A?style=flat&logo=provider)&nbsp;
+![GetX](https://img.shields.io/badge/-GetX-05122A?style=flat&logo=GetX)&nbsp;
 
 
 <p align="left">
