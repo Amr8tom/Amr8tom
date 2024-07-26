@@ -11,9 +11,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
+-📱I make apps. In weeks, not months.
+- 👨‍💻 I love to code. Been doing it for 5 years.
 - 🏢 I'm a Flutter Developer && Data Scientist
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter or anything related to Flutter development.
+- 👨‍💻 📈 I have worked on over 15 apps, with more than 5 Flutter apps currently live on the Play Store.
 - ⚡ Education:Faculty of computer science and artificial intelligence cairo university My department(bioinformatics)   .
 
 ### Connect with Me :
@@ -39,6 +41,6 @@
 
 
 
-<a href="https://github.com/Amr8tom807">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr8tom807&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
+<a href="https://github.com/Amr8tom">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr8tom&langs_count=6&layout=compact&theme=radical" alt="Top Languages Used" />
 </a>
