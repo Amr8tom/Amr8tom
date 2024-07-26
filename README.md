@@ -22,6 +22,15 @@
 <a href="https://www.facebook.com/kamba.amr.9" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Alaa-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCvZFhKHiycnIVzrWsdWaN3g" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
 
+
+### Check Out My Apps:
+
+- [App 1 Name](https://play.google.com/store/apps/details?id=com.apmo.doctorpharma) - Description of App 1.
+- [App 2 Name](https://play.google.com/store/apps/details?id=com.example.app2) - Description of App 2.
+- [App 3 Name](https://play.google.com/store/apps/details?id=com.example.app3) - Description of App 3.
+- [App 4 Name](https://play.google.com/store/apps/details?id=com.example.app4) - Description of App 4.
+- [App 5 Name](https://play.google.com/store/apps/details
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
